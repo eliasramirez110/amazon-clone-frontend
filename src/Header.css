@@ -44,6 +44,12 @@
   font-weight: 800;
 }
 
+.header_optionBasket {
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
 .header_nav {
   display: flex;
   justify-content: space-evenly;
